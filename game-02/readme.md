@@ -4,7 +4,7 @@
 
 There is a service named YOLO which calls synchronously an API named WTF. WTF tends to be very unstable, having peaks in latency now and then making its responses ending up in timeouts. The high frequency of timeouts eventually overloads YOLO's servers causing them to unexpectedly go down. 
 
-## Constraints
+## Constraints
 
 - YOLO only waits up to 30 seconds for each call made to WTF.
 - YOLO's server has a limited capacity to attend 10 request simultaneously.
