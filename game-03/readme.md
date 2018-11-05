@@ -19,11 +19,6 @@ This repository includes the initial setup for this Kata, including the specs. I
 	```
 5. We assume your OS has bash shell available. If that's not tha case, then you might need to have a look at `start.sh`, `test.sh` and `finish.sh` in order to run the suiting commands needed for this project.
 
-## Challenge
-
-1. Refactor the monstrous code in the `GildedRose.php` class.
-2. Add a new item type, "Conjured". The specs for this item are commented out in the `GildedRoseSpec.php` file.
-
 ## Rules
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods. Unfortunately, our goods are constantly degrading in quality as they approach their sell by date. We have a system in place that updates our inventory for us. It was developed by a no-nonsense type named Leeroy, who has moved on to new adventures.
@@ -51,3 +46,7 @@ We have recently signed a supplier of conjured items. This requires an update to
 
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a legendary item and as such its Quality is 80 and it never alters.
 
+## Challenge
+
+1. Refactor the monstrous code in the `GildedRose.php` class.
+2. Add a new item type, "Conjured". The specs for this item are commented out in the `GildedRoseSpec.php` file.
