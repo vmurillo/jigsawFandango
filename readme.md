@@ -14,6 +14,9 @@
 - [Timeout troubles](https://github.com/papaya-holdings/jigsaw/tree/master/game-02)
 - [Spaghetti code](https://github.com/papaya-holdings/jigsaw/tree/master/game-03)
 
+## Any doubts?
+Just open a [new issue](https://github.com/papaya-holdings/jigsaw/issues/new) and we'll get back to you asap.
+
 ## Once you are finished...
 
 - Upload your solutions to a public repository in GitHub or a similar service.
