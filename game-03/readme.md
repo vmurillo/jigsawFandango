@@ -17,7 +17,7 @@ This repository includes the initial setup for this Kata, including a specs file
 	```bash
 	$ ./finish.sh
 	```
-5. We assume your OS has a bash shell available. If that's not the case, you might need to have a look at `start.sh`, `test.sh` and `finish.sh` in order to run the suitable commands needed for this project.
+5. We assume your OS has Bash available. If that's not the case, you might need to have a look at `start.sh`, `test.sh` and `finish.sh` in order to run the suitable commands needed for this project.
 
 ## Rules
 

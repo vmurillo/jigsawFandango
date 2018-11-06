@@ -14,4 +14,4 @@ A service named YOLO synchronously calls an API named WTF. WTF tends to be very 
 
 ## Challenge
 
-You are required to design an architecture using design patterns that allow YOLO to find out when WTF is having trouble processing requests. Ideally, this design should be able to avoid issuing calls to WTF until WTF is available again.
+You are required to design an architecture using design patterns that allow YOLO to find out when WTF is having trouble processing requests. Ideally, this architecture should let YOLO know when to stop issuing calls to WTF until WTF is available again.
