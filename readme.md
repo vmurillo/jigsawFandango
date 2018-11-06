@@ -19,5 +19,5 @@ Just open a [new issue](https://github.com/papaya-holdings/jigsaw/issues/new) an
 
 ## Once you are finished...
 
-- Upload your solution to a public repository in GitHub or a similar service.
+- Upload your solutions to a public repository in GitHub or a similar service.
 - Share your repository link with us by filling in the [form](https://fandangolatam.typeform.com/to/D7PKZs)
